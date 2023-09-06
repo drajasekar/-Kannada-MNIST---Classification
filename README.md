@@ -68,6 +68,7 @@ Naive Bayes Mode
 F1 Score:  0.7813117107240918
 
 RoC - AUC curve:
+
 ![download (3)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/e1a14ac4-6f91-48a6-b9a9-944c85ab95c9)
 
 
@@ -90,6 +91,6 @@ F1 Score:  0.8992025309723746
 Naive Bayes Mode
 F1 Score:  0.7958024556103679
 
-
 RoC - AUC curve:
+
 ![download (2)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/487cd59f-3e52-40da-b8b2-c79853883d9f)
