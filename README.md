@@ -3,11 +3,11 @@
 ## Description
 The "Kannada MNIST Classification" project addresses a fascinating machine-learning challenge that involves recognizing handwritten digits in the Kannada script. Unlike traditional Hindu numerals, the Kannada script represents the numerals used predominantly by the people of Karnataka in southwestern India, where the Kannada language is spoken by approximately 45 million native speakers.
 
-##Problem Statement:
+Problem Statement:
 
 The primary goal of this project is to create a robust classification system for Kannada digits. The dataset used for this task is known as the "Kannada MNIST" dataset, which is a recently-released dataset designed specifically for the Kannada language. This dataset consists of handwritten Kannada digits, and it presents a 10-class classification problem, where each class corresponds to a different digit.
 
-##Key Components:
+Key Components:
 
 Kannada Script: Kannada is a rich and intricate script used for writing the Kannada language. It holds cultural significance in the region and is distinct from the familiar Hindu-Arabic script used for English numerals.
 
