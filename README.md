@@ -2,6 +2,8 @@
 
 ## Description
 The "Kannada MNIST Classification" project addresses a fascinating machine-learning challenge that involves recognizing handwritten digits in the Kannada script. Unlike traditional Hindu numerals, the Kannada script represents the numerals used predominantly by the people of Karnataka in southwestern India, where the Kannada language is spoken by approximately 45 million native speakers.
+![download](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/841feb55-ee84-4f16-8cda-ad4399d770e9)
+
 
 Problem Statement:
 
@@ -23,4 +25,30 @@ Utilize machine learning techniques to accurately classify handwritten Kannada d
 Apply dimensionality reduction through PCA (Principal Component Analysis) to simplify the feature space.
 Experiment with various classification models, including Decision Trees, Random Forest, Naive Bayes, K-NN Classifier, and SVM.
 Evaluate the performance of each model using metrics such as precision, recall, F1-score, confusion matrices, and ROC-AUC curves.
+
+Classification Model test Result:
+
+SVM
+F1 Score:  0.8866826079564731
+
+KNeighborsClassifier
+F1 Score:  0.8781246801433077
+
+LogisticRegression
+F1 Score:  0.805346718278235
+
+DecisionTreeClassifier
+F1 Score:  0.8034572508382888
+
+RandomForestClassifier
+F1 Score:  0.8747518117030051
+
+GaussianNB
+F1 Score:  0.7710828842695301
+
+RoC - AUC curve:
+![download (1)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/c198db28-af35-408f-ae64-7afc6b8ade87)
+
+
+
 
