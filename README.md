@@ -47,6 +47,7 @@ GaussianNB
 F1 Score:  0.7710828842695301
 
 RoC - AUC curve:
+
 ![download (1)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/c198db28-af35-408f-ae64-7afc6b8ade87)
 
 
