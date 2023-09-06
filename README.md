@@ -94,3 +94,49 @@ F1 Score:  0.7958024556103679
 RoC - AUC curve:
 
 ![download (2)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/487cd59f-3e52-40da-b8b2-c79853883d9f)
+
+Classification Model test Result for 25 component size :
+
+
+SVM
+F1 Score:  0.9359155693048505
+
+LogisticRegression
+F1 Score:  0.8604267002739955
+
+
+DecisionTreeClassifier
+F1 Score:  0.8033021947537583
+
+RandomForestClassifier
+F1 Score:  0.9043064241285714
+
+Naive Bayes Mode
+F1 Score:  0.8037561814444575
+
+RoC - AUC curve:
+
+![download (4)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/e025c15d-b6ac-47a0-a6dd-41b1ac453807)
+
+classification Model test Result for 30 component size :
+
+
+SVM
+F1 Score:  0.9387095341144158
+
+LogisticRegression
+F1 Score:  0.8659274304753551
+
+DecisionTreeClassifier
+F1 Score:  0.8079475164562043
+
+RandomForestClassifier
+F1 Score:  0.9079634701891233
+
+Naive Bayes Mode
+F1 Score:  0.8119420681850823
+
+RoC - AUC curve:
+
+![download (5)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/92338d38-b6b1-4f82-b0a4-10031290047b)
+
