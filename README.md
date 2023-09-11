@@ -47,10 +47,14 @@ Naive Bayes Mode
 F1 Score:  0.7710828842695301
 
 RoC - AUC curve:
+![img1](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/49e26b4c-6213-413e-a0c0-a64e73151fa3)
 
-![download (1)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/c198db28-af35-408f-ae64-7afc6b8ade87)
+
 
 Classification Model test Result for 15 component size :
+
+KNeighborsClassifier
+F1 Score:  0.9088698616752358
 
 SVM
 F1 Score:  0.9144279375940038
@@ -69,7 +73,7 @@ F1 Score:  0.7813117107240918
 
 RoC - AUC curve:
 
-![download (3)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/e1a14ac4-6f91-48a6-b9a9-944c85ab95c9)
+![img2](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/4600c6fa-fa88-4328-8492-e01ee0e2fadf)
 
 
 
