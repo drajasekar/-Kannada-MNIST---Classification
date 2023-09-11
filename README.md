@@ -47,6 +47,7 @@ Naive Bayes Mode
 F1 Score:  0.7710828842695301
 
 RoC - AUC curve:
+
 ![img1](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/49e26b4c-6213-413e-a0c0-a64e73151fa3)
 
 
@@ -57,19 +58,19 @@ KNeighborsClassifier
 F1 Score:  0.9088698616752358
 
 SVM
-F1 Score:  0.9144279375940038
+F1 Score:  0.9149230039169408
 
 LogisticRegression
-F1 Score:  0.8319884050551556
+F1 Score:  0.8311311569760357
 
 DecisionTreeClassifier
-F1 Score:  0.8087277078582826
+F1 Score:  0.8084531839347158
 
 RandomForestClassifier
-F1 Score:  0.8915821501693953
+F1 Score:  0.8916533436746517
 
 Naive Bayes Mode
-F1 Score:  0.7813117107240918
+F1 Score:  0.7814201909184488
 
 RoC - AUC curve:
 
@@ -78,7 +79,6 @@ RoC - AUC curve:
 
 
 Classification Model test Result for 20 component size :
-
 
 SVM
 F1 Score:  0.9308308853317468
@@ -100,7 +100,6 @@ RoC - AUC curve:
 ![download (2)](https://github.com/drajasekar/-Kannada-MNIST---Classification/assets/44079369/487cd59f-3e52-40da-b8b2-c79853883d9f)
 
 Classification Model test Result for 25 component size :
-
 
 SVM
 F1 Score:  0.9359155693048505
